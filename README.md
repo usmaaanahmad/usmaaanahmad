@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>UA. ARCHITECT</h1>
+  <h1>Usman Ahmad</h1>
   <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
   
   <code><b>REACT</b></code> • <code><b>NEXT.JS 14</b></code> • <code><b>SUPABASE</b></code> • <code><b>UX ARCHITECTURE</b></code>
