@@ -1,47 +1,49 @@
 <div align="center">
   <br />
+  <img src="https://komarev.com/ghpvc/?username=usmaaanahmad&color=000000&style=flat-square&label=TRAFFIC.LOG" alt="Traffic" />
+  <br />
   <h1>UA. ARCHITECT</h1>
-  <p>BUILDING HUMAN-CENTRIC ECOSYSTEMS</p>
+  <p><b>BUILDING HUMAN-CENTRIC ECOSYSTEMS</b></p>
   
-  <code><b>FULL-STACK DEVELOPER</b></code> &nbsp; | &nbsp; <code><b>CREATIVE STRATEGIST</b></code>
+  <code><b>FULL-STACK</b></code> • <code><b>UI/UX ARCHITECT</b></code> • <code><b>BRAND STRATEGIST</b></code>
   
   <br /><br />
 
-  [Portfolio](https://usmaaan.site) • [Email](mailto:usmanahmadasdf8@gmail.com) • [LinkedIn](https://linkedin.com/in/humanizer-x)
+  [Explore Portfolio](https://usmaaan.site) &nbsp; | &nbsp; [Secure Collaboration](mailto:usmanahmadasdf8@gmail.com) &nbsp; | &nbsp; [Professional Network](https://linkedin.com/in/humanizer-x)
 
 </div>
 
 ---
 
 ### 01. MISSION
-> I bridge the gap between mechanical data and human empathy. Architecting future-forward applications where high-performance code meets high-end branding.
+> I bridge the gap between mechanical data and human empathy. My work centers on architecting future-forward applications where high-performance code meets high-end branding. **Current Focus: Humanizing AI interactions.**
 
 ---
 
 ### 02. TECHNICAL ARSENAL
 
-| AREA | STACK |
+| LAYER | STACK |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-000000?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white) |
-| **Creative** | ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) |
+| **01. INTERFACE** | ![React](https://img.shields.io/badge/React-000?style=plastic&logo=react) ![Next](https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js) ![TS](https://img.shields.io/badge/TypeScript-000?style=plastic&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=plastic&logo=tailwind-css) ![Three](https://img.shields.io/badge/Three.js-000?style=plastic&logo=three.js) |
+| **02. CORE** | ![Node](https://img.shields.io/badge/Node.js-000?style=plastic&logo=node.js) ![Python](https://img.shields.io/badge/Python-000?style=plastic&logo=python) ![Supabase](https://img.shields.io/badge/Supabase-000?style=plastic&logo=supabase) ![Postgres](https://img.shields.io/badge/Postgres-000?style=plastic&logo=postgresql) |
+| **03. CREATIVE** | ![Figma](https://img.shields.io/badge/Figma-000?style=plastic&logo=figma) ![PS](https://img.shields.io/badge/Adobe_PS-000?style=plastic&logo=adobe-photoshop) ![AI](https://img.shields.io/badge/Adobe_AI-000?style=plastic&logo=adobe-illustrator) ![AE](https://img.shields.io/badge/Adobe_AE-000?style=plastic&logo=adobe-after-effects) |
+| **04. SYSTEMS** | ![Git](https://img.shields.io/badge/Git-000?style=plastic&logo=git) ![Docker](https://img.shields.io/badge/Docker-000?style=plastic&logo=docker) ![Vite](https://img.shields.io/badge/Vite-000?style=plastic&logo=vite) ![Vercel](https://img.shields.io/badge/Vercel-000?style=plastic&logo=vercel) |
 
 ---
 
-### 03. CASE STUDIES
+### 03. FEATURED CASE STUDIES
 
 #### ⚡ [Humanizer X](https://github.com/usmaaanahmad/humanizer-x)
-An intelligent ecosystem designed to bridge the gap between mechanical AI data and human-centric design.
-`Next.js 14` `TypeScript` `Supabase`
+> **Full-Stack Development / AI Integration** > An intelligent ecosystem designed to bridge the gap between mechanical AI data and human-centric design.  
+> `Next.js 14` `TypeScript` `Supabase` `AI-Refinement`
 
 #### 🎨 [Zeene Fashion](https://github.com/usmaaanahmad/zeene)
-A premium custom-stitching platform. Full-stack e-commerce architecture with a focus on UI precision.
-`React` `Node.js` `PostgreSQL`
+> **E-Commerce / Branding / Logic** > A premium custom-stitching platform. Full-stack e-commerce architecture with a focus on UI precision.  
+> `React` `Node.js` `PostgreSQL` `Tailored UX`
 
 ---
 
-### 04. ANALYTICS
+### 04. ANALYTICS.LOG
 <div align="center">
   <img src="https://github-readme-stats.herokuapp.com/api?username=usmaaanahmad&show_icons=true&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="48%" />
   <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=usmaaanahmad&layout=compact&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="45%" />
@@ -55,6 +57,15 @@ A premium custom-stitching platform. Full-stack e-commerce architecture with a f
 
 ---
 
+### 05. WORKFLOW
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmaaanahmad&theme=pure" width="100%" />
+</div>
+
+---
+
 <p align="center">
   <i>Humanizing the digital landscape, one pixel at a time.</i>
+  <br />
+  <img src="https://raw.githubusercontent.com/usmaaanahmad/usmaaanahmad/main/footer.svg" width="100%" />
 </p>
