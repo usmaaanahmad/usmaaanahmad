@@ -18,78 +18,37 @@
 ### 01. EXECUTIVE SUMMARY
 > "I bridge the gap between mechanical data and human empathy. My mission is to architect future-forward applications where high-performance code meets high-end branding."
 
-As a developer and founder based in Lahore, Pakistan, I have spent over 3.5 years refining the art of digital craftsmanship. I don't just build websites; I build ecosystems. My work at **Humanizer X** is dedicated to making technology feel more organic, inclusive, and accessible.
+Based in Lahore, Pakistan, I have spent over **3.5 years** refining digital craftsmanship. I specialize in building ecosystems that feel organic and inclusive. Currently, I am scaling **Humanizer X**, a platform dedicated to humanizing the digital landscape.
 
 ---
 
-### 02. CORE PHILOSOPHY
-My approach to development is rooted in three pillars:
-1. **Technical Precision:** Writing clean, scalable, and type-safe code using TypeScript and Next.js.
-2. **Visual Brutalism:** Utilizing high-contrast, bold design languages that demand attention and ensure clarity.
-3. **Human-Centricity:** Ensuring that every component serves the end-user, reducing friction in digital interactions.
+### 02. TECHNICAL ARSENAL
+
+| CATEGORY | STACK & TOOLS |
+| :--- | :--- |
+| **01. INTERFACE** | ![React](https://img.shields.io/badge/React-000?style=plastic&logo=react) ![Next](https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js) ![TS](https://img.shields.io/badge/TypeScript-000?style=plastic&logo=typescript) ![JS](https://img.shields.io/badge/JavaScript-000?style=plastic&logo=javascript) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=plastic&logo=tailwind-css) ![Three](https://img.shields.io/badge/Three.js-000?style=plastic&logo=three.js) |
+| **02. CORE** | ![Node](https://img.shields.io/badge/Node.js-000?style=plastic&logo=node.js) ![Supabase](https://img.shields.io/badge/Supabase-000?style=plastic&logo=supabase) ![Postgres](https://img.shields.io/badge/Postgres-000?style=plastic&logo=postgresql) ![Python](https://img.shields.io/badge/Python-000?style=plastic&logo=python) ![Firebase](https://img.shields.io/badge/Firebase-000?style=plastic&logo=firebase) |
+| **03. CREATIVE** | ![Figma](https://img.shields.io/badge/Figma-000?style=plastic&logo=figma) ![PS](https://img.shields.io/badge/Adobe_PS-000?style=plastic&logo=adobe-photoshop) ![AI](https://img.shields.io/badge/Adobe_AI-000?style=plastic&logo=adobe-illustrator) ![AE](https://img.shields.io/badge/Adobe_AE-000?style=plastic&logo=adobe-after-effects) |
+| **04. SYSTEMS** | ![Git](https://img.shields.io/badge/Git-000?style=plastic&logo=git) ![Docker](https://img.shields.io/badge/Docker-000?style=plastic&logo=docker) ![Vite](https://img.shields.io/badge/Vite-000?style=plastic&logo=vite) ![Vercel](https://img.shields.io/badge/Vercel-000?style=plastic&logo=vercel) |
 
 ---
 
-### 03. THE TECHNICAL ARSENAL (BY LAYER)
-
-#### 3.1 THE INTERFACE LAYER (Frontend)
-- **Frameworks:** React.js, Next.js 14 (App Router)
-- **Styling:** Tailwind CSS, Sass, CSS3 (Modern Flex/Grid)
-- **Animation:** Framer Motion, GSAP, CSS Keyframes
-- **State Management:** Zustand, Redux Toolkit, React Context API
-- **Typography:** Specialized in Brutalist and Modern Sans-Serif aesthetics
-
-#### 3.2 THE CORE LAYER (Backend & Database)
-- **Runtime:** Node.js, Bun
-- **Database:** PostgreSQL (via Supabase), MongoDB, Firebase Firestore
-- **Serverless:** Supabase Edge Functions, Vercel Functions
-- **Security:** JWT Authentication, Row-Level Security (RLS), OAuth
-
-#### 3.3 THE LOGIC LAYER (AI & Analytics)
-- **AI Integration:** OpenAI API, LangChain, Custom AI Refinement Algorithms
-- **Data Analysis:** Python (Pandas/NumPy), Recharts, Chart.js
-- **Optimization:** Lighthouse Performance Auditing, SEO Architecture
-
-#### 3.4 THE CREATIVE LAYER (Design & Branding)
-- **Prototyping:** Figma (Expert Level)
-- **Graphics:** Adobe Photoshop, Adobe Illustrator
-- **Motion Design:** Adobe After Effects, Premiere Pro
-- **Branding:** Visual Identity Design, Color Theory, Typography Systems
-
----
-
-### 04. FEATURED CASE STUDIES
+### 03. FEATURED CASE STUDIES
 
 #### ⚡ [Humanizer X](https://github.com/usmaaanahmad/humanizer-x)
-> **The Flagship Ecosystem**
-> 
-> An intelligent platform designed to refine AI-generated content into natural, human-centric communication. This project showcases my ability to handle complex state, AI API integrations, and a sophisticated user dashboard.
->
-> - **Stack:** Next.js 14, TypeScript, Supabase, Tailwind CSS.
-> - **Impact:** Reduced content "uncanny valley" effects by 40% in user testing.
+> **The Flagship Ecosystem** > An intelligent platform designed to refine AI-generated content into natural, human-centric communication. Built with Next.js 14 and Supabase.
 
-#### 🎨 [Zeene Fashion](https://github.com/usmaaanahmad/zeene)
-> **Premium E-Commerce Architecture**
->
-> A specialized platform for the custom-stitching industry in Pakistan. This project required a deep understanding of local e-commerce nuances combined with an international design standard.
->
-> - **Stack:** React, Node.js, PostgreSQL, Framer Motion.
-> - **Impact:** Optimized the custom order flow, reducing checkout drop-offs by 25%.
+#### 🎨 [Zeene Fashion](https://zeenepk.shop)
+> **Premium E-Commerce Architecture** > A high-end custom-stitching platform. Focused on scalable order logic and pixel-perfect branding for the fashion industry.  
+> `Live Store:` [zeenepk.shop](https://zeenepk.shop)
+
+#### 🔋 [Voltique](https://voltiquee.shop)
+> **Modern Retail Experience** > A sleek, high-performance retail solution built to handle rapid transactions and dynamic inventory management with a brutalist UI.  
+> `Live Store:` [voltiquee.shop](https://voltiquee.shop)
 
 ---
 
-### 05. DEVELOPMENT WORKFLOW
-I follow a rigorous **05-Step Architecture** for every project:
-
-1. **Discovery:** Defining user personas and identifying technical constraints.
-2. **Wireframing:** Low-fidelity structural planning in Figma.
-3. **Prototyping:** Building a high-fidelity visual identity and design system.
-4. **Development:** Agile sprints with a focus on type-safety and performance.
-5. **Deployment:** CI/CD via GitHub Actions and Vercel, followed by an SEO audit.
-
----
-
-### 06. ANALYTICS.LOG
+### 04. ANALYTICS.LOG
 <div align="center">
   <img src="https://github-readme-stats.herokuapp.com/api?username=usmaaanahmad&show_icons=true&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="48%" />
   <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=usmaaanahmad&layout=compact&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="45%" />
@@ -103,28 +62,19 @@ I follow a rigorous **05-Step Architecture** for every project:
 
 ---
 
-### 07. CONTRIBUTING TO THE OPEN WEB
-I am open to:
-- **Collaboration:** High-impact SaaS or Creative Tech projects.
-- **Mentorship:** Helping junior devs master the React ecosystem.
-- **Speaking:** Discussions on Human-Centered Tech and Design Systems.
+### 05. CONTACT & CONNECT
+<div align="left">
+
+| CHANNEL | DESTINATION |
+| :--- | :--- |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | [usmanahmadasdf8@gmail.com](mailto:usmanahmadasdf8@gmail.com) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/humanizer-x](https://linkedin.com/in/humanizer-x) |
+| ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=browser&logoColor=white) | [usmaaan.site](https://usmaaan.site) |
+
+</div>
 
 ---
 
-### 08. LATEST FROM THE STUDIO
-| Date | Project/Thought | Category |
-| :--- | :--- | :--- |
-| 2026-03 | Launching Humanizer X V2 | Major Release |
-| 2026-02 | The Future of Brutalist UI | Blog Post |
-| 2026-01 | Next.js 15 Server Component Patterns | Research |
-
----
-
-### 09. CONNECT.SH
-```bash
-$ curl -X GET [https://usmaaan.site/connect](https://usmaaan.site/connect)
-{
-  "email": "usmanahmadasdf8@gmail.com",
-  "location": "Lahore, PK",
-  "status": "Available for high-end projects"
-}
+<p align="center">
+  <i>Humanizing the digital landscape, one pixel at a time.</i>
+</p>
