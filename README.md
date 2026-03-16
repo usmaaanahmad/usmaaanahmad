@@ -1,49 +1,51 @@
 <div align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=usmaaanahmad&color=000000&style=flat-square&label=TRAFFIC.LOG" alt="Traffic" />
+  <img src="https://komarev.com/ghpvc/?username=usmaaanahmad&color=000000&style=flat-square&label=RESEARCH.TRAFFIC" alt="Traffic" />
   <br />
-  <h1>UA. ARCHITECT</h1>
-  <p><b>BUILDING HUMAN-CENTRIC ECOSYSTEMS</b></p>
+  <h1>DR. DURGESH SAMARIYA</h1>
+  <p><b>PhD in Machine Learning | ML Developer | Open Source Contributor</b></p>
   
-  <code><b>FULL-STACK</b></code> • <code><b>UI/UX ARCHITECT</b></code> • <code><b>BRAND STRATEGIST</b></code>
+  <code><b>RESEARCHER</b></code> • <code><b>TECHNICAL WRITER</b></code> • <code><b>ML ARCHITECT</b></code>
   
   <br /><br />
 
-  [Explore Portfolio](https://usmaaan.site) &nbsp; | &nbsp; [Secure Collaboration](mailto:usmanahmadasdf8@gmail.com) &nbsp; | &nbsp; [Professional Network](https://linkedin.com/in/humanizer-x)
+  [Research Articles](https://your-blog-link.com) &nbsp; | &nbsp; [Academic Portfolio](https://usmaaan.site) &nbsp; | &nbsp; [LinkedIn](https://linkedin.com/in/humanizer-x)
 
 </div>
 
 ---
 
-### 01. MISSION
-> I bridge the gap between mechanical data and human empathy. My work centers on architecting future-forward applications where high-performance code meets high-end branding. **Current Focus: Humanizing AI interactions.**
+### 01. RESEARCH SYNOPSIS
+> "I specialize in uncovering hidden patterns in high-dimensional data. My work bridges the gap between theoretical Machine Learning and scalable development."
+
+**Primary Research Interests:**
+* **Outlying Aspect Mining** (Explaining why an object is an outlier)
+* **Classification & Clustering** (High-dimensional data structures)
+* **Anomaly Detection** (Real-time fraud and fault discovery)
+* **Similarity Measures** (Optimizing distance metrics for ML)
 
 ---
 
 ### 02. TECHNICAL ARSENAL
 
-| LAYER | STACK |
+| CATEGORY | STACK |
 | :--- | :--- |
-| **01. INTERFACE** | ![React](https://img.shields.io/badge/React-000?style=plastic&logo=react) ![Next](https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js) ![TS](https://img.shields.io/badge/TypeScript-000?style=plastic&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=plastic&logo=tailwind-css) ![Three](https://img.shields.io/badge/Three.js-000?style=plastic&logo=three.js) |
-| **02. CORE** | ![Node](https://img.shields.io/badge/Node.js-000?style=plastic&logo=node.js) ![Python](https://img.shields.io/badge/Python-000?style=plastic&logo=python) ![Supabase](https://img.shields.io/badge/Supabase-000?style=plastic&logo=supabase) ![Postgres](https://img.shields.io/badge/Postgres-000?style=plastic&logo=postgresql) |
-| **03. CREATIVE** | ![Figma](https://img.shields.io/badge/Figma-000?style=plastic&logo=figma) ![PS](https://img.shields.io/badge/Adobe_PS-000?style=plastic&logo=adobe-photoshop) ![AI](https://img.shields.io/badge/Adobe_AI-000?style=plastic&logo=adobe-illustrator) ![AE](https://img.shields.io/badge/Adobe_AE-000?style=plastic&logo=adobe-after-effects) |
-| **04. SYSTEMS** | ![Git](https://img.shields.io/badge/Git-000?style=plastic&logo=git) ![Docker](https://img.shields.io/badge/Docker-000?style=plastic&logo=docker) ![Vite](https://img.shields.io/badge/Vite-000?style=plastic&logo=vite) ![Vercel](https://img.shields.io/badge/Vercel-000?style=plastic&logo=vercel) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) |
+| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch) ![ScikitLearn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) ![Postgres](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) |
+| **IDEs** | ![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode) ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter) ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm) |
 
 ---
 
-### 03. FEATURED Projects
-
-#### ⚡ [Humanizer X](https://github.com/usmaaanahmad/humanizer-x)
-> **Full-Stack Development / AI Integration** > An intelligent ecosystem designed to bridge the gap between mechanical AI data and human-centric design.  
-> `Next.js 14` `TypeScript` `Supabase` `AI-Refinement`
-
-#### 🎨 [Zeene Fashion](https://github.com/usmaaanahmad/zeene)
-> **E-Commerce / Branding / Logic** > A premium custom-stitching platform. Full-stack e-commerce architecture with a focus on UI precision.  
-> `React` `Node.js` `PostgreSQL` `Tailored UX`
+### 03. OPEN FOR COLLABORATION
+* 🧪 **Research:** Collaborative mining or anomaly detection projects.
+* 💻 **Development:** End-to-end Machine Learning pipelines.
+* 🎓 **Academic:** Reviewer or PC Member roles for ML/Data Mining journals.
+* ✍️ **Writing:** Guest articles on Data Science and PhD productivity.
 
 ---
 
-### 04. ANALYTICS.LOG
+### 04. CONTRIBUTIONS.LOG
 <div align="center">
   <img src="https://github-readme-stats.herokuapp.com/api?username=usmaaanahmad&show_icons=true&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="48%" />
   <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=usmaaanahmad&layout=compact&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="45%" />
@@ -57,15 +59,6 @@
 
 ---
 
-### 05. WORKFLOW
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmaaanahmad&theme=pure" width="100%" />
-</div>
-
----
-
 <p align="center">
-  <i>Humanizing the digital landscape, one pixel at a time.</i>
-  <br />
-  <img src="https://raw.githubusercontent.com/usmaaanahmad/usmaaanahmad/main/footer.svg" width="100%" />
+  <i>Exploring the outliers in a world of data.</i>
 </p>
