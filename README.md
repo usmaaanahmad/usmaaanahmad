@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=UA.%20ARCHITECT&fontSize=70&animation=fadeIn&fontAlignY=40&desc=BUILDING%20HUMAN-CENTRIC%20ECOSYSTEMS&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=220&section=header&text=UA.%20ARCHITECT&fontSize=70&animation=fadeIn&fontAlignY=35&desc=BUILDING%20HUMAN-CENTRIC%20ECOSYSTEMS&descSize=20&descAlignY=60" width="100%" />
 
   <p align="center">
     <a href="https://usmaaan.site">Portfolio</a> •
