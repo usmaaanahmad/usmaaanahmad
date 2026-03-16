@@ -62,7 +62,7 @@ I am open to:
 ### CONNECT
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanahmadasdf8@gmail.com)
+[![Gmail](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=usmanahmadasdf8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/humanizer-x)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=browser&logoColor=white)](https://usmaaan.site)
 
