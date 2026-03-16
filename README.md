@@ -1,56 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=220&section=header&text=UA.%20ARCHITECT&fontSize=70&animation=fadeIn&fontAlignY=35&desc=BUILDING%20HUMAN-CENTRIC%20ECOSYSTEMS&descSize=20&descAlignY=60" width="100%" />
+  <br />
+  <h1>UA. ARCHITECT</h1>
+  <p>BUILDING HUMAN-CENTRIC ECOSYSTEMS</p>
+  
+  <code><b>FULL-STACK DEVELOPER</b></code> &nbsp; | &nbsp; <code><b>CREATIVE STRATEGIST</b></code>
+  
+  <br /><br />
 
-  <p align="center">
-    <a href="https://usmaaan.site">Portfolio</a> •
-    <a href="mailto:usmanahmadasdf8@gmail.com">Email</a> •
-    <a href="https://linkedin.com/in/humanizer-x">LinkedIn</a>
-  </p>
-</div>
-
----
-
-### // MISSION
-> "I bridge the gap between mechanical data and human empathy. Architecting future-forward applications where high-performance code meets high-end branding."
-
----
-
-### // THE ARSENAL
-<div align="center">
-
-| **Frontend** | **Backend** | **Design** | **DevOps** |
-| :--- | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) | ![Node](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js) | ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma) | ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker) |
-| ![Next](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js) | ![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase) | ![PS](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobe-photoshop) | ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git) |
-| ![TS](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql) | ![AI](https://img.shields.io/badge/-Illustrator-000?style=for-the-badge&logo=adobe-illustrator) | ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel) |
+  [Portfolio](https://usmaaan.site) • [Email](mailto:usmanahmadasdf8@gmail.com) • [LinkedIn](https://linkedin.com/in/humanizer-x)
 
 </div>
 
 ---
 
-### // CASE STUDIES
+### 01. MISSION
+> I bridge the gap between mechanical data and human empathy. Architecting future-forward applications where high-performance code meets high-end branding.
+
+---
+
+### 02. TECHNICAL ARSENAL
+
+| AREA | STACK |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=white) |
+| **Backend** | ![Node](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-000000?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white) |
+| **Creative** | ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) |
+
+---
+
+### 03. CASE STUDIES
+
 #### ⚡ [Humanizer X](https://github.com/usmaaanahmad/humanizer-x)
 An intelligent ecosystem designed to bridge the gap between mechanical AI data and human-centric design.
-`Next.js 14` `TypeScript` `Supabase` `TailwindCSS`
+`Next.js 14` `TypeScript` `Supabase`
 
 #### 🎨 [Zeene Fashion](https://github.com/usmaaanahmad/zeene)
 A premium custom-stitching platform. Full-stack e-commerce architecture with a focus on UI precision.
-`React` `Node.js` `PostgreSQL` `Branding`
+`React` `Node.js` `PostgreSQL`
 
 ---
 
-### // ANALYTICS.LOG
+### 04. ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmaaanahmad&show_icons=true&theme=transparent&title_color=000&text_color=444&bg_color=00000000&hide_border=true&font_bold=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaaanahmad&layout=compact&theme=transparent&title_color=000&text_color=444&bg_color=00000000&hide_border=true&font_bold=true" width="45%" />
+  <img src="https://github-readme-stats.herokuapp.com/api?username=usmaaanahmad&show_icons=true&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="48%" />
+  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=usmaaanahmad&layout=compact&theme=dark&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&font_bold=true" width="45%" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmaaanahmad&theme=transparent&hide_border=true&stroke=000&ring=000&fire=000&currStreakNum=000&sideNums=000&sideLabels=000&dates=444" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmaaanahmad&theme=dark&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&text_color=000&quote=Humanizing%20the%20digital%20landscape,%20one%20pixel%20at%20a%20time." />
+  <i>Humanizing the digital landscape, one pixel at a time.</i>
 </p>
