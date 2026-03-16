@@ -1,7 +1,4 @@
 <div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=usmaaanahmad&color=000000&style=flat-square&label=TRAFFIC.LOG" alt="Traffic" />
-  <br />
   <h1>UA. ARCHITECT</h1>
   <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
   
