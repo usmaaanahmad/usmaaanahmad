@@ -31,7 +31,7 @@
 
 ---
 
-### 03. FEATURED CASE STUDIES
+### 03. FEATURED Projects
 
 #### ⚡ [Humanizer X](https://github.com/usmaaanahmad/humanizer-x)
 > **Full-Stack Development / AI Integration** > An intelligent ecosystem designed to bridge the gap between mechanical AI data and human-centric design.  
