@@ -48,8 +48,8 @@ Focused on building ecosystems that feel organic and inclusive. Currently scalin
 
 ### ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmaaanahmad&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_border=true&font_bold=true" width="48%" alt="Usman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaaanahmad&layout=compact&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_border=true&font_bold=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmaaanahmad&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&font_bold=true" width="48%" alt="Usman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaaanahmad&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&font_bold=true" width="48%" alt="Top Languages" />
 </div>
 
 <br />
