@@ -48,14 +48,12 @@ Focused on building ecosystems that feel organic and inclusive. Currently scalin
 
 ### ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmaaanahmad&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&font_bold=true" width="48%" alt="Usman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaaanahmad&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&font_bold=true" width="48%" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=usmaaanahmad&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&font_bold=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaaanahmad&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&font_bold=true" width="49%" alt="Top Languages" />
+  
+  <br />
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmaaanahmad&theme=dark&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmaaanahmad&theme=dark&background=000000&ring=ffffff&fire=ffca28&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
