@@ -1,13 +1,18 @@
-<div align="center">
-  <img src="usmaaan.jpg" 
-       width="150" 
-       height="150" 
-       style="border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" 
-       alt="Usman Ahmad">
-  
-  <h1>Usman Ahmad</h1>
-  <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
-</div>
+<table>
+  <tr>
+    <td width="160">
+      <img src="cropped_circle_image.png" 
+           width="150" 
+           height="150" 
+           style="border-radius: 50%; border: 4px solid white; display: block;" 
+           alt="Usman Ahmad">
+    </td>
+    <td style="vertical-align: middle;">
+      <h1>Usman Ahmad</h1>
+      <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
+    </td>
+  </tr>
+</table>
   
   <code><b>REACT</b></code> • <code><b>NEXT.JS 14</b></code> • <code><b>SUPABASE</b></code> • <code><b>UX ARCHITECTURE</b></code>
   
