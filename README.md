@@ -42,7 +42,7 @@ Focused on building ecosystems that feel organic and inclusive. Currently scalin
 ### SELECTED WORKS
 * ⚡ **[Humanizer X](https://humanizerx.pro)**: AI-to-Human content refinement ecosystem.
 * 🎨 **[Zeene Fashion](https://zeenepk.shop)**: Premium custom-stitching e-commerce platform.
-* 🔋 **[Voltique](https://voltiquee.shop)**: High-speed retail inventory solution.
+* 🔋 **[Voltiquee](https://voltiquee.shop)**: High-speed retail inventory solution.
 
 ---
 
