@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="usmaaan.jpg" width="150" height="150" style="border-radius: 50%;" alt="Usman Ahmad">
+  <img src="usmaaan.jpg" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" 
+       alt="Usman Ahmad">
+  
   <h1>Usman Ahmad</h1>
   <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
 </div>
