@@ -1,25 +1,22 @@
-<table>
-  <tr>
-    <td width="160">
-      <img src="cropped_circle_image.png" 
-           width="150" 
-           height="150" 
-           style="border-radius: 50%; border: 4px solid white; display: block;" 
-           alt="Usman Ahmad">
-    </td>
-    <td style="vertical-align: middle;">
-      <h1>Usman Ahmad</h1>
-      <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
-    </td>
-  </tr>
-</table>
-  
-  <code><b>REACT</b></code> • <code><b>NEXT.JS 14</b></code> • <code><b>SUPABASE</b></code> • <code><b>UX ARCHITECTURE</b></code>
-  
-  <br /><br />
-
-  [Launch Humanizer X](https://humanizerx.pro) &nbsp; | &nbsp; [LinkedIn Profile](https://linkedin.com/in/humanizer-x)
-
+<div align="left">
+  <table border="0">
+    <tr>
+      <td width="160" style="border: none;">
+        <img src="cropped_circle_image.png" 
+             width="140" 
+             height="140" 
+             alt="Usman Ahmad"
+             style="display: block;">
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <h1>Usman Ahmad</h1>
+        <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
+        <code><b>REACT</b></code> • <code><b>NEXT.JS 14</b></code> • <code><b>SUPABASE</b></code> • <code><b>UX ARCHITECTURE</b></code>
+        <br /><br />
+        <a href="https://humanizerx.pro"><b>🚀 Launch Humanizer X</b></a> &nbsp; | &nbsp; <a href="https://linkedin.com/in/humanizer-x"><b>🔗 LinkedIn Profile</b></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
