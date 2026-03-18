@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="usmaaan.jpg" width="150" height="150" style="border-radius: 50%;" alt="Usman Ahmad">
   <h1>Usman Ahmad</h1>
   <p><b>FOUNDER @ HUMANIZER X | FULL-STACK DEVELOPER | BRAND STRATEGIST</b></p>
+</div>
   
   <code><b>REACT</b></code> • <code><b>NEXT.JS 14</b></code> • <code><b>SUPABASE</b></code> • <code><b>UX ARCHITECTURE</b></code>
   
